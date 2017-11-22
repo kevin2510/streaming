@@ -78,7 +78,7 @@
     </div>
 
     <div id="main-container" class="hidden">
-        <button type="button" id="leave-room">Leave</button>
+        <button type="button" id="leave-room">Leaves</button>
         <div id="messages">
 
         </div>
